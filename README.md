@@ -1,4 +1,4 @@
-This repository consists of Python programming solutions for the problems that are on CodeChef, rated 500-1000 difficulty ratings.
+This repository consists of Python programming solutions for the problems that are on CodeChef, rated 500-800 difficulty ratings.
 
 **INSTRUCTION TO NAVIGATE:-** Just Press Ctrl+F and type your problem name, and you will get the solution.
 
